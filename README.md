@@ -1,8 +1,8 @@
-##Mission
+#Mission
 
 Empower school-going students to focus on their respective areas of interest and start excelling in the field right from a young age so that they can build a better world in the future
 
-##Vision
+#Vision
 Introduce existing and upcoming technologies in a way that young students can grasp it using the scope of the industry, various activities and games which will cater the imagination of the students and help them to seed the ideas for their future. The next generation of geeks should support free thinking, open source and openness. Our vision is to explain this to the participants with the help of striking methodologies. 
 
 #DESCRIPTION
