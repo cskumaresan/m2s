@@ -24,7 +24,7 @@ We are planning a different methodology on mozilla2school project in    order to
 
 #Participation Guidelines
 
-This project adheres to a code of conduct. By participating, you are expected to uphold this code. Please report unacceptable behavior to dun3buggi3@gmail.com.
+This project adheres to a code of conduct. By participating, you are expected to uphold this code. Please report unacceptable behavior to cskumaresan@gmail.com.
 
 #MozSprint
 Join us at the Mozilla Global Sprint June 1-2, 2017! We'll be gathering in-person at sites around the world and online to collaborate on this project and learn from each other. Get your #mozsprint tickets now!
