@@ -1,10 +1,11 @@
 # Contributing to Improving participation and collaboration on Mozilla2school
 
+Thank you for your interest in contributing to Mozilla2School project .😺
 
-* Problem being solved : 
-Educate web to the students through that they can explore through knowledge in 21st century and they can be creative by sharing knowledge on the web development.
-* Feature release or Product:
-New Agenda will be including the students in the higher levels are also included by giving coaching on various web development frameworks and CI/CD frameworks
+This project is about to introduce young school-going students to the internet and help them to explore it and make them aware of the power of internet. The initiative also introduces these young minds to the latest technology and give practical trainings on using it.
+
+We are planning a different methodology for this project in order to enhance its practical output. We introduce new technologies in both software and hardware programming to the students and give them the complete range of scope to choose from. We believe that this first step will enable them to choose their areas of interest and build a career around these areas of interest. If you want to get more information about this project, check out [Readme](README.md).
+
 * How can others Join: 
 By Participating the regular events and be with the community
 
@@ -22,7 +23,21 @@ This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participatin
 
 ## What we're working on
 
+    1. Create the learning platform (syllabus) with the curriculum  
 
+    Syllabus Presentation :- https://drive.google.com/file/d/0B9PftcB7okNRcDNxQThBUnJhcm8/view?ts=58f7912e
+
+    Syllabus Details :- https://drive.google.com/file/d/0B9PftcB7okNRNUt3Z25aRWZWRWs/view?ts=58f7912e
+
+    New curriculum on Privacy and Security
+
+    Develop the resources and share the knowledge to empower communities/persons
+
+    Motivate people with the open source culture
+
+    2. Creating Network of Learners
+
+    4 hubs with 6 mentors each
 
 
 ## How to submit changes
