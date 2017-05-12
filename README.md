@@ -23,7 +23,7 @@ We are planning a different methodology on mozilla2school project in    order to
 
 ## Contributing
 
-Thanks for your interest in contributing to [PROJECT]! There are many ways to contribute. To get started, take a look at [CONTRIBUTING.md](CONTRIBUTING.md).
+Thanks for your interest in contributing to [Mozilla2School](https://wiki.mozilla.org/Kerala/Mozilla2School)! There are many ways to contribute. To get started, take a look at [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Participation Guidelines
 
