@@ -1,6 +1,12 @@
-# Contributing to Mozilla2school
+# Contributing to Improving participation and collaboration on Mozilla2school
 
 
+* Problem being solved : 
+Educate web to the students through that they can explore through knowledge in 21st century and they can be creative by sharing knowledge on the web development.
+* Feature release or Product:
+New Agenda will be including the students in the higher levels are also included by giving coaching on various web development frameworks and CI/CD frameworks
+* How can others Join: 
+By Participating the regular events and be with the community
 
 
 * [Participation guidelines](#participation-guidelines)
