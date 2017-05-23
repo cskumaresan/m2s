@@ -1,3 +1,5 @@
+# Mozilla2School
+
 ## Mission
 
 Empower school-going students to focus on their respective areas of interest and start excelling in the field right from a young age so that they can build a better world in the future
